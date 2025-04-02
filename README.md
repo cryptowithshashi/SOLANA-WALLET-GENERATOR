@@ -34,7 +34,7 @@ Install Dependencies
 ```
 Clone Repository
 ```bash
-  https://github.com/cryptowithshashi/SOLANA-WALLET-GENERATOR.git
+  git clone https://github.com/cryptowithshashi/SOLANA-WALLET-GENERATOR.git
 ```
 ```bash
   cd SOLANA-WALLET-GENERATOR
