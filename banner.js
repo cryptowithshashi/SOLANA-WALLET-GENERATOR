@@ -13,7 +13,7 @@ export const banner = `
 
  -___________________________________________________________________________-                                                           
 
- ✦    ${chalk.magentaBright('--- Solana-Wallet-Generator ---')}    ✦     
+ ✦    ${chalk.magentaBright('--- SOLANA-WALLET-GENERATOR ---')}    ✦     
  ➥  ${chalk.cyan('Telegram Channel:')} ${chalk.underline.blue('https://t.me/crypto_with_shashi')} 
  ➥  ${chalk.cyan('Twitter Handle:')} ${chalk.underline.blue('https://x.com/SHASHI522004')}
  ➥  ${chalk.cyan('Github:')} ${chalk.underline.blue('https://github.com/cryptowithshashi')}
