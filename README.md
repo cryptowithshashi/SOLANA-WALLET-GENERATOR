@@ -50,7 +50,7 @@ Execute the code
 ```
 Use this command to check your wallet's info
 ```bash
-  nano solana_wallet_output.txt
+  nano solana_wallet_outputs.txt
 ```
 
 - Enter number of wallets when prompted
