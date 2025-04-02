@@ -29,33 +29,40 @@ It generates and displays the **Public Key** (Address), the **Private Key**, and
 
 Install Dependencies
 ```bash
-  sudo apt update && sudo apt upgrade -y
-  sudo apt install -y git nodejs npm
+    sudo apt update && sudo apt upgrade -y
+    sudo apt install -y git nodejs npm
 ```
 Clone Repository
 ```bash
-  git clone https://github.com/cryptowithshashi/SOLANA-WALLET-GENERATOR.git
+    git clone https://github.com/cryptowithshashi/SOLANA-WALLET-GENERATOR.git
 ```
 ```bash
-  cd SOLANA-WALLET-GENERATOR
+    cd SOLANA-WALLET-GENERATOR
 ```
 
 Install Packages
 ```bash
-  npm install
+    npm install
 ```
 Execute the code
 ```bash
-  node index.js
+    node index.js
 ```
 Use this command to check your wallet's info
 ```bash
-  nano solana_wallet_outputs.txt
+    nano solana_wallet_outputs.txt
 ```
 
+If you found error in your terminal is due to PowerShell's execution policy restricting script execution. You can enable script execution by running the following command in PowerShell as an administrator
+```bash
+    Set-ExecutionPolicy Unrestricted -Scope CurrentUser
+
+```
+If prompted, type A (for Yes to All) and press Enter. Now, try running your npm install command again.
+
 - Enter number of wallets when prompted
-- Find saved wallets in solana_wallet_output.txt
-- DELETE solana_wallet_output.txt from VPS after download
+- Find saved wallets in solana_wallet_outputs.txt
+- DELETE solana_wallet_outputs.txt from VPS after download
 - Store mnemonics in encrypted storage
 - Never expose private keys online
 - Maintain offline backups
