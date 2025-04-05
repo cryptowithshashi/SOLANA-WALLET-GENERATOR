@@ -75,11 +75,3 @@ DISCLAIMER -- This tool is provided "as-is" for educational purposes. The develo
 Twitter -- https://x.com/SHASHI522004
 
 Github -- https://github.com/cryptowithshashi
-
-
-## ABOUT ME
-
-Twitter -- https://x.com/SHASHI522004
-
-Github -- https://github.com/cryptowithshashi
-
